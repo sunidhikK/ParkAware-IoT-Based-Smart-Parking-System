@@ -52,7 +52,7 @@ The physical prototype was built for the hackathon demo table using off-the-shel
 
 ![Circuit diagram](docs/circuit-diagram.png)
 
-**Reference pin mapping** (verify against your own sketch — pins below reflect the reference wiring used for this diagram):
+![ParkAware Hardware Prototype](docs/hardware-prototype.jpg)
 
 | Signal | Arduino pin |
 |---|---|
@@ -300,13 +300,25 @@ smart-parking/
 
 ---
 
-## 🎨 UI design
+## 🖥️ Application Screenshots
 
-- Dark theme with deep navy/purple gradients and glassmorphism
-- Vibrant accents: cyan, emerald, violet
-- Smooth animations via Framer Motion — page transitions, slot card animations, animated counters
-- Slot cards pulse when occupied, glow on hover when available
-- Fully responsive, with a one-click dark/light mode toggle
+### Customer Parking Flow
+
+**1. View available slots**
+
+![Parking View](docs/screenshots/parking-view.png)
+
+**2. Book or reserve a slot**
+
+![Slot Booking](docs/screenshots/booking-slot.png)
+
+**3. Track reservation**
+
+![Reserved Slot](docs/screenshots/reserved-slot.png)
+
+**4. Checkout and pay**
+
+![Checkout](docs/screenshots/checkout.png)
 
 ---
 
