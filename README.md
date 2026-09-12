@@ -53,7 +53,7 @@ The physical prototype was built for the hackathon demo table using off-the-shel
 ![Circuit diagram](docs/circuit-diagram.png)
 
 ## Hardware Prototype
-<img width="1582" height="1532" alt="hardware-prototype" src="https://github.com/user-attachments/assets/b0fbb3cb-bd6c-4314-b7b3-0e58bcf526a0" />
+<img width="500" height="500" alt="hardware-prototype" src="https://github.com/user-attachments/assets/b0fbb3cb-bd6c-4314-b7b3-0e58bcf526a0" />
 
 
 | Signal | Arduino pin |
