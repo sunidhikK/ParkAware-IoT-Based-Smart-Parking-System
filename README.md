@@ -1,4 +1,4 @@
-# 🅿️ Smart Parking System
+# PARKAWARE - Smart Parking System
 
 A full-stack smart parking management platform paired with a working IoT hardware prototype — built to show how real-time slot detection, automated billing, and admin analytics can modernize parking in dense urban campuses like JNTU Hyderabad.
 
@@ -52,7 +52,9 @@ The physical prototype was built for the hackathon demo table using off-the-shel
 
 ![Circuit diagram](docs/circuit-diagram.png)
 
-![ParkAware Hardware Prototype](docs/hardware-prototype.jpg)
+## Hardware Prototype
+<img width="1582" height="1532" alt="hardware-prototype" src="https://github.com/user-attachments/assets/b0fbb3cb-bd6c-4314-b7b3-0e58bcf526a0" />
+
 
 | Signal | Arduino pin |
 |---|---|
