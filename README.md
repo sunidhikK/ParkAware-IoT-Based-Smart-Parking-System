@@ -306,7 +306,7 @@ smart-parking/
 
 **1. View available slots**
 
-![Parking View](docs/screenshots/parking-view.png)
+![Parking View](docs/screenshots/booking-slot.png)
 
 **2. Book or reserve a slot**
 
