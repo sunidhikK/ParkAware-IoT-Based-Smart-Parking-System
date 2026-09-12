@@ -306,19 +306,23 @@ smart-parking/
 
 **1. View available slots**
 
-![Parking View](docs/screenshots/booking-slot.png)
+![Parking View](docs/screenshots/<img width="959" height="452" alt="parking-view" src="https://github.com/user-attachments/assets/865a510e-6d96-4551-a601-6321597ebb1d" />
+.png)
 
 **2. Book or reserve a slot**
 
-![Slot Booking](docs/screenshots/booking-slot.png)
+![Slot Booking](docs/screenshots/<img width="959" height="448" alt="booking-slot" src="https://github.com/user-attachments/assets/fe78e62d-bb75-451d-9786-534cfc94c579" />
+.png)
 
 **3. Track reservation**
 
-![Reserved Slot](docs/screenshots/reserved-slot.png)
+![Reserved Slot](docs/screenshots/<img width="959" height="455" alt="reserved-slot" src="https://github.com/user-attachments/assets/601a476a-c759-40b0-87dd-e77b450e5b46" />
+.png)
 
 **4. Checkout and pay**
 
-![Checkout](docs/screenshots/checkout.png)
+![Checkout](docs/screenshots/<img width="956" height="446" alt="checkout" src="https://github.com/user-attachments/assets/690b4204-4a8c-46e9-8c5b-70118640d8f7" />
+.png)
 
 ---
 
