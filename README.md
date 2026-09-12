@@ -53,7 +53,7 @@ The physical prototype was built for the hackathon demo table using off-the-shel
 ![Circuit diagram](docs/circuit-diagram.png)
 
 ## Hardware Prototype
-<img width="500" height="500" alt="hardware-prototype" src="https://github.com/user-attachments/assets/b0fbb3cb-bd6c-4314-b7b3-0e58bcf526a0" />
+<img width="400" height="400" alt="hardware-prototype" src="https://github.com/user-attachments/assets/b0fbb3cb-bd6c-4314-b7b3-0e58bcf526a0" />
 
 
 | Signal | Arduino pin |
@@ -308,22 +308,22 @@ smart-parking/
 
 **1. View available slots**
 
-<img width="959" height="452" alt="parking-view" src="https://github.com/user-attachments/assets/865a510e-6d96-4551-a601-6321597ebb1d" />
+<img width="400" height="400" alt="parking-view" src="https://github.com/user-attachments/assets/865a510e-6d96-4551-a601-6321597ebb1d" />
 
 
 **2. Book or reserve a slot**
 
-<img width="959" height="448" alt="booking-slot" src="https://github.com/user-attachments/assets/fe78e62d-bb75-451d-9786-534cfc94c579" />
+<img width="400" height="300" alt="booking-slot" src="https://github.com/user-attachments/assets/fe78e62d-bb75-451d-9786-534cfc94c579" />
 
 
 **3. Track reservation**
 
-<img width="959" height="455" alt="reserved-slot" src="https://github.com/user-attachments/assets/601a476a-c759-40b0-87dd-e77b450e5b46" />
+<img width="400" height="300" alt="reserved-slot" src="https://github.com/user-attachments/assets/601a476a-c759-40b0-87dd-e77b450e5b46" />
 
 
 **4. Checkout and pay**
 
-<img width="956" height="446" alt="checkout" src="https://github.com/user-attachments/assets/690b4204-4a8c-46e9-8c5b-70118640d8f7" />
+<img width="400" height="300" alt="checkout" src="https://github.com/user-attachments/assets/690b4204-4a8c-46e9-8c5b-70118640d8f7" />
 
 ---
 
