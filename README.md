@@ -216,17 +216,17 @@ On first run, the backend automatically creates `backend/db/parking.db`, seeds *
 ```
 smart-parking/
 ├── backend/
-│   ├── server.js              # Express server entry point
+│   ├── server.js              
 │   ├── package.json
 │   ├── db/
-│   │   └── database.js        # SQLite setup, seeding, cleanup
+│   │   └── database.js        
 │   ├── middleware/
-│   │   └── auth.js            # JWT authentication middleware
+│   │   └── auth.js            
 │   ├── routes/
-│   │   ├── auth.js            # Auth routes (login, register, me)
-│   │   ├── slots.js           # Slot routes (list, reserve, park, checkin)
-│   │   ├── parking.js         # Parking routes (exit, history, receipt)
-│   │   └── admin.js           # Admin routes (stats, logs, revenue, export)
+│   │   ├── auth.js            
+│   │   ├── slots.js           
+│   │   ├── parking.js         
+│   │   └── admin.js           
 │   └── controllers/
 │       ├── authController.js
 │       ├── slotController.js
@@ -241,12 +241,12 @@ smart-parking/
 │   └── src/
 │       ├── main.jsx
 │       ├── App.jsx
-│       ├── index.css           # Tailwind + custom glassmorphism styles
+│       ├── index.css           
 │       ├── api/
-│       │   └── axios.js        # Axios instance with auth interceptor
+│       │   └── axios.js        
 │       ├── context/
-│       │   ├── AuthContext.jsx  # Auth state management
-│       │   └── ThemeContext.jsx # Dark/Light theme toggle
+│       │   ├── AuthContext.jsx  
+│       │   └── ThemeContext.jsx 
 │       ├── components/
 │       │   ├── Sidebar.jsx
 │       │   ├── SlotCard.jsx
@@ -266,7 +266,7 @@ smart-parking/
 │           ├── AdminParkingLog.jsx
 │           └── AdminSlotManagement.jsx
 └── docs/
-    └── circuit-diagram.png     # Hardware prototype wiring diagram
+    └── circuit-diagram.png     
 ```
 
 ---
@@ -306,31 +306,23 @@ smart-parking/
 
 **1. View available slots**
 
-![Parking View](docs/screenshots/<img width="959" height="452" alt="parking-view" src="https://github.com/user-attachments/assets/865a510e-6d96-4551-a601-6321597ebb1d" />
-.png)
+<img width="959" height="452" alt="parking-view" src="https://github.com/user-attachments/assets/865a510e-6d96-4551-a601-6321597ebb1d" />
+
 
 **2. Book or reserve a slot**
 
-![Slot Booking](docs/screenshots/<img width="959" height="448" alt="booking-slot" src="https://github.com/user-attachments/assets/fe78e62d-bb75-451d-9786-534cfc94c579" />
-.png)
+<img width="959" height="448" alt="booking-slot" src="https://github.com/user-attachments/assets/fe78e62d-bb75-451d-9786-534cfc94c579" />
+
 
 **3. Track reservation**
 
-![Reserved Slot](docs/screenshots/<img width="959" height="455" alt="reserved-slot" src="https://github.com/user-attachments/assets/601a476a-c759-40b0-87dd-e77b450e5b46" />
-.png)
+<img width="959" height="455" alt="reserved-slot" src="https://github.com/user-attachments/assets/601a476a-c759-40b0-87dd-e77b450e5b46" />
+
 
 **4. Checkout and pay**
 
-![Checkout](docs/screenshots/<img width="956" height="446" alt="checkout" src="https://github.com/user-attachments/assets/690b4204-4a8c-46e9-8c5b-70118640d8f7" />
-.png)
+<img width="956" height="446" alt="checkout" src="https://github.com/user-attachments/assets/690b4204-4a8c-46e9-8c5b-70118640d8f7" />
 
 ---
 
-## 🔭 Future scope
 
-- Replace the mocked IoT layer with a real MQTT/HTTP bridge so the Arduino prototype writes directly into the live backend instead of the seeded database.
-- Add UPI/card payment integration for checkout instead of a simulated receipt.
-- Support multiple physical lots per admin account.
-- Add number-plate recognition (ANPR) at the entry/exit sensors instead of simple IR presence detection.
-
----
