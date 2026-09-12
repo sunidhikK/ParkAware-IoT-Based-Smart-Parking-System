@@ -12,12 +12,13 @@ A full-stack smart parking management platform paired with a working IoT hardwar
 
 Most parking lots on college campuses, malls, and office parks are still managed the way they were decades ago:
 
-- Drivers circle blindly looking for an open spot because there's no way to see slot availability before driving in.
-- Attendants track occupancy and billing on paper or a whiteboard, which doesn't scale and is easy to get wrong.
-- There's no record of who parked where, for how long, or how much revenue a lot actually generates.
-- Entry and exit gates are either unmanned (no security) or need a person stationed there at all times.
+Drivers have no way of knowing whether parking slots are available before entering the parking area, forcing them to drive around and search for an open spot.
+Even after entering, users often don't know which specific slots are available, leading to unnecessary time and fuel wastage.
+Attendants track occupancy and billing on paper or a whiteboard, which doesn't scale and is easy to get wrong.
+There's no record of who parked where, for how long, or how much revenue a lot actually generates.
+Entry and exit gates are either unmanned (no security) or need a person stationed there at all times.
 
-We wanted to fix this without requiring an expensive hardware retrofit — so we built two things that work together: a **production-style software platform** that any parking operator could run today, and a **working hardware prototype** that proves the same logic maps cleanly onto real IR sensors, a boom gate, and a display.
+We wanted to fix this without requiring an expensive hardware retrofit — so we built two things that work together: a production-style software platform that any parking operator could run today, and a working hardware prototype that proves the same logic maps cleanly onto real IR sensors, a boom gate, and a display.
 
 ## 💡 Our solution
 
