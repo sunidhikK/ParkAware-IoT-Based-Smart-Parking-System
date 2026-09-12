@@ -50,7 +50,8 @@ The physical prototype was built for the hackathon demo table using off-the-shel
 
 ### Wiring diagram
 
-![Circuit diagram](docs/circuit-diagram.png)
+<img width="800" height="600" alt="circuit-diagram" src="https://github.com/user-attachments/assets/e7c56079-3edf-4ca5-b85f-b4eee56cfc85" />
+
 
 ## Hardware Prototype
 <img width="400" height="400" alt="hardware-prototype" src="https://github.com/user-attachments/assets/b0fbb3cb-bd6c-4314-b7b3-0e58bcf526a0" />
